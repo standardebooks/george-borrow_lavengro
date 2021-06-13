@@ -1,6 +1,891 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search-key-map xmlns="http://www.idpf.org/2007/ops" xml:lang="en">
-	<search-key-group href="text/glossary.xhtml#abdalrahman">
-		<match value="abdalrahman"/>
+	<search-key-group href="text/glossary.xhtml#abri">
+		<match value="abri"/>
 	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#adré">
+		<match value="adré"/>
+			<value value="adrey"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ambról">
+		<match value="ambról"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#andé">
+		<match value="andé"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#angár">
+		<match value="angár"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ankko">
+		<match value="ankko"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#apopli">
+		<match value="apopli"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ava">
+		<match value="ava"/>
+			<value value="ávali"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#avella">
+		<match value="avella"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ballúva">
+		<match value="ballúva"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#baló">
+		<match value="baló"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#baró">
+		<match value="baró"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bátu">
+		<match value="bátu"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#baulo">
+		<match value="baulo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bawlor">
+		<match value="bawlor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bebee">
+		<match value="bebee"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#beng">
+		<match value="beng"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bengui">
+		<match value="bengui"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#besh">
+		<match value="besh"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#beti">
+		<match value="beti"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bitchadey">
+		<match value="bitchadey"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bokht">
+		<match value="bokht"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boró">
+		<match value="boró"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#borodromengro">
+		<match value="borodromengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boshom">
+		<match value="boshom"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#boshomengro">
+		<match value="boshomengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bovaló">
+		<match value="bovaló"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#bute">
+		<match value="bute"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cafi">
+		<match value="cafi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#caloró">
+		<match value="caloró"/>
+			<value value="calorí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cambrí">
+		<match value="cambrí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#camomescro">
+		<match value="camomescro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cana">
+		<match value="cana"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#caulor">
+		<match value="caulor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chabé">
+		<match value="chabé"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chabó">
+		<match value="chabó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chachipen">
+		<match value="chachipen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chal">
+		<match value="chal"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chal">
+		<match value="chal"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chavó">
+		<match value="chavó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chi">
+		<match value="chi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chibándo">
+		<match value="chibándo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chick">
+		<match value="chick"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chie">
+		<match value="chie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chiknó">
+		<match value="chiknó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chinomescro">
+		<match value="chinomescro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chipe">
+		<match value="chipe"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chive">
+		<match value="chive"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chívios">
+		<match value="chívios"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chong">
+		<match value="chong"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#choomer">
+		<match value="choomer"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chore">
+		<match value="chore"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chories">
+		<match value="chories"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chovahanee">
+		<match value="chovahanee"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#chovahanó">
+		<match value="chovahanó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#churi">
+		<match value="churi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#coin">
+		<match value="coin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#coko">
+		<match value="coko"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#colikó">
+		<match value="colikó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#coor">
+		<match value="coor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cooromengro">
+		<match value="cooromengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#covántza">
+		<match value="covántza"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#covar">
+		<match value="covar"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cral">
+		<match value="cral"/>
+			<value value="crállis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#cukkerin">
+		<match value="cukkerin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#curomengro">
+		<match value="curomengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#czigány">
+		<match value="czigány"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dearginni">
+		<match value="dearginni"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dick">
+		<match value="dick"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dinelo">
+		<match value="dinelo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#divvus">
+		<match value="divvus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dloovu">
+		<match value="dloovu"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dook">
+		<match value="dook"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dook">
+		<match value="dook"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dosta">
+		<match value="dosta"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dove-odoy">
+		<match value="dove odoy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#drab">
+		<match value="drab"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#drab">
+		<match value="drab"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#drabengro">
+		<match value="drabengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#drom">
+		<match value="drom"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#drow">
+		<match value="drow"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dúi">
+		<match value="dúi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#duk">
+		<match value="duk"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dukker">
+		<match value="dukker"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dukkerin">
+		<match value="dukkerin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dukkerin-dook">
+		<match value="dukkerin dook"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dukkeripen">
+		<match value="dukkeripen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dumo">
+		<match value="dumo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#duvel">
+		<match value="duvel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#duvelskoe">
+		<match value="duvelskoe"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#dye">
+		<match value="dye"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#engro">
+		<match value="engro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#erajái">
+		<match value="erajái"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#eray">
+		<match value="eray"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#farm-engro">
+		<match value="farm-engro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fino">
+		<match value="fino"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#fóros">
+		<match value="fóros"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gav">
+		<match value="gav"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gil">
+		<match value="gil"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gillie">
+		<match value="gillie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gitáno">
+		<match value="gitáno"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gorgikie">
+		<match value="gorgikie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gorgiko">
+		<match value="gorgiko"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gorgio">
+		<match value="gorgio"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gorgious">
+		<match value="gorgious"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#grandbebee">
+		<match value="grandbebee"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#grasní">
+		<match value="grasní"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#grondinni">
+		<match value="grondinni"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gry">
+		<match value="gry"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gudló">
+		<match value="gudló"/>
+			<value value="gudlí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#gul-eray">
+		<match value="gul eray"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#habben">
+		<match value="habben"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#harkomescro">
+		<match value="harkomescro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hatch">
+		<match value="hatch"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hinjirí">
+		<match value="hinjirí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hir mi devlis">
+		<match value="hir mi devlis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hokkawar">
+		<match value="hokkawar"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hokkeripen">
+		<match value="hokkeripen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#hors-worth">
+		<match value="hors-worth"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#iuziou">
+		<match value="iuziou"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jaw">
+		<match value="jaw"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jawing">
+		<match value="jawing"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#jib">
+		<match value="jib"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#juggal">
+		<match value="juggal"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#juva">
+		<match value="juva"/>
+			<value value="juwa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kair">
+		<match value="kair"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kairdó">
+		<match value="kairdó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kaló">
+		<match value="kaló"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kauley">
+		<match value="kauley"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kaulo">
+		<match value="kaulo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kaulomescro">
+		<match value="kaulomescro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ke">
+		<match value="ke"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kek">
+		<match value="kek"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kekaubi">
+		<match value="kekaubi"/>
+			<value value="kekkauvi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kekauviskoe-saster">
+		<match value="kekauviskoe saster"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kekkaubi">
+		<match value="kekkaubi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kekkenó">
+		<match value="kekkenó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ker">
+		<match value="ker"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ker">
+		<match value="ker"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kerdó">
+		<match value="kerdó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kil">
+		<match value="kil"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kin">
+		<match value="kin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kistur">
+		<match value="kistur"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kitchema">
+		<match value="kitchema"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kosko">
+		<match value="kosko"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#kral">
+		<match value="kral"/>
+			<value value="krallis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lachipen">
+		<match value="lachipen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#laki">
+		<match value="laki"/>
+			<value value="lakie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lavengro">
+		<match value="lavengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lel">
+		<match value="lel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#len">
+		<match value="len"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lende">
+		<match value="lende"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#leste">
+		<match value="leste"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#levinor">
+		<match value="levinor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lil">
+		<match value="lil"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lirí">
+		<match value="lirí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lis">
+		<match value="lis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lolló">
+		<match value="lolló"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#loovu">
+		<match value="loovu"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lovó">
+		<match value="lovó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lubbeny">
+		<match value="lubbeny"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#lundra">
+		<match value="lundra"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#luripen">
+		<match value="luripen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mailla">
+		<match value="mailla"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#man">
+		<match value="man"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mande">
+		<match value="mande"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mang">
+		<match value="mang"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#manriclí">
+		<match value="manriclí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#manró">
+		<match value="manró"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#manus">
+		<match value="manus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#marél">
+		<match value="marél"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mek">
+		<match value="mek"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#men">
+		<match value="men"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mensar">
+		<match value="mensar"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mer">
+		<match value="mer"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mi">
+		<match value="mi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#miduveleskoe-lil">
+		<match value="miduveleskoe lil"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#miró">
+		<match value="miró"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#miry">
+		<match value="miry"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#morro">
+		<match value="morro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#muchtar">
+		<match value="muchtar"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#mullo">
+		<match value="mullo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nashkadó">
+		<match value="nashkadó"/>
+			<value value="nashkadí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nashky">
+		<match value="nashky"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#nav">
+		<match value="nav"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#o">
+		<match value="o"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#odoi">
+		<match value="odoi"/>
+			<value value="odoy"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#opré">
+		<match value="opré"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pa">
+		<match value="pa"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pal">
+		<match value="pal"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#palor">
+		<match value="palor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#parraco">
+		<match value="parraco"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#patteran">
+		<match value="patteran"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pawdel">
+		<match value="pawdel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pellengo">
+		<match value="pellengo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pen">
+		<match value="pen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#peshotá">
+		<match value="peshotá"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#petúl">
+		<match value="petúl"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#petulengro">
+		<match value="petulengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pindró">
+		<match value="pindró"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pios">
+		<match value="pios"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#piramus">
+		<match value="piramus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#plaistra">
+		<match value="plaistra"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#plastramengro">
+		<match value="plastramengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#poggadó">
+		<match value="poggadó"/>
+			<value value="poggadí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#poknees">
+		<match value="poknees"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#prala">
+		<match value="prala"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pré">
+		<match value="pré"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pudamengro">
+		<match value="pudamengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#puró">
+		<match value="puró"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#pus">
+		<match value="pus"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#puv">
+		<match value="puv"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ran">
+		<match value="ran"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ráni">
+		<match value="ráni"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rarde">
+		<match value="rarde"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rat">
+		<match value="rat"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rawnie">
+		<match value="rawnie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rig">
+		<match value="rig"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rikkeno">
+		<match value="rikkeno"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rin">
+		<match value="rin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rinkenó">
+		<match value="rinkenó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rom">
+		<match value="rom"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#roman">
+		<match value="roman"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romaneskoenaes">
+		<match value="romaneskoenaes"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romanies">
+		<match value="romanies"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romanly">
+		<match value="romanly"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romanó">
+		<match value="romanó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romany">
+		<match value="romany"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romany-chal">
+		<match value="romany chal"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romany-chi">
+		<match value="romany chi"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romany-rye">
+		<match value="romany rye"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rome and dree">
+		<match value="rome and dree"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#romí">
+		<match value="romí"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rommanis">
+		<match value="rommanis"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rommany">
+		<match value="rommany"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rup">
+		<match value="rup"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rye">
+		<match value="rye"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sanpriel">
+		<match value="sanpriel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sap">
+		<match value="sap"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sapengro">
+		<match value="sapengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sar-shan">
+		<match value="sar shan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sas">
+		<match value="sas"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#saster">
+		<match value="saster"/>
+			<value value="sastra"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sastramescro">
+		<match value="sastramescro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#saulo">
+		<match value="saulo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#savó">
+		<match value="savó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#scoppelo">
+		<match value="scoppelo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#se">
+		<match value="se"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shan">
+		<match value="shan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sherengro">
+		<match value="sherengro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shom">
+		<match value="shom"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shoon">
+		<match value="shoon"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shukaro">
+		<match value="shukaro"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#shunella">
+		<match value="shunella"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#si">
+		<match value="si"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sinaba">
+		<match value="sinaba"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sore">
+		<match value="sore"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sos">
+		<match value="sos"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sos">
+		<match value="sos"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#sove">
+		<match value="sove"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#swety">
+		<match value="swety"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#synfye">
+		<match value="synfye"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ta">
+		<match value="ta"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tachó">
+		<match value="tachó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tan">
+		<match value="tan"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tasaulor">
+		<match value="tasaulor"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tatchenó">
+		<match value="tatchenó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tatchipen">
+		<match value="tatchipen"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tawnie">
+		<match value="tawnie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tawnó">
+		<match value="tawnó"/>
+			<value value="tawní"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tove">
+		<match value="tove"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#trin">
+		<match value="trin"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#truppo">
+		<match value="truppo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tu">
+		<match value="tu"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#tute">
+		<match value="tute"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vagescoe">
+		<match value="vagescoe"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vassavie">
+		<match value="vassavie"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#vassavó">
+		<match value="vassavó"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#villaminni">
+		<match value="villaminni"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#wafodo">
+		<match value="wafodo"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#wel">
+		<match value="wel"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#welling">
+		<match value="welling"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#wendror">
+		<match value="wendror"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#wesh">
+		<match value="wesh"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#wust">
+		<match value="wust"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#yag">
+		<match value="yag"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#ye">
+		<match value="ye"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#yeck">
+		<match value="yeck"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#yov">
+		<match value="yov"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#zigeuner">
+		<match value="zigeuner"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#zingaro">
+		<match value="zingaro"/>
+	</search-key-group>
+
 </search-key-map>
