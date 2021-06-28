@@ -5,7 +5,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#adré">
 		<match value="adré"/>
-			<value value="adrey"/>
+		<value value="adrey"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ambról">
 		<match value="ambról"/>
@@ -24,7 +24,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ava">
 		<match value="ava"/>
-			<value value="ávali"/>
+		<value value="ávali"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#avella">
 		<match value="avella"/>
@@ -91,7 +91,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#caloró">
 		<match value="caloró"/>
-			<value value="calorí"/>
+		<value value="calorí"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cambrí">
 		<match value="cambrí"/>
@@ -194,7 +194,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cral">
 		<match value="cral"/>
-			<value value="crállis"/>
+		<value value="crállis"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cukkerin">
 		<match value="cukkerin"/>
@@ -333,7 +333,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gudló">
 		<match value="gudló"/>
-			<value value="gudlí"/>
+		<value value="gudlí"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#gul-eray">
 		<match value="gul eray"/>
@@ -379,7 +379,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#juva">
 		<match value="juva"/>
-			<value value="juwa"/>
+		<value value="juwa"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kair">
 		<match value="kair"/>
@@ -407,7 +407,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kekaubi">
 		<match value="kekaubi"/>
-			<value value="kekkauvi"/>
+		<value value="kekkauvi"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kekauviskoe-saster">
 		<match value="kekauviskoe saster"/>
@@ -444,14 +444,14 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kral">
 		<match value="kral"/>
-			<value value="krallis"/>
+		<value value="krallis"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lachipen">
 		<match value="lachipen"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#laki">
 		<match value="laki"/>
-			<value value="lakie"/>
+		<value value="lakie"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lavengro">
 		<match value="lavengro"/>
@@ -557,7 +557,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#nashkadó">
 		<match value="nashkadó"/>
-			<value value="nashkadí"/>
+		<value value="nashkadí"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#nashky">
 		<match value="nashky"/>
@@ -570,7 +570,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#odoi">
 		<match value="odoi"/>
-			<value value="odoy"/>
+		<value value="odoy"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#opré">
 		<match value="opré"/>
@@ -625,7 +625,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#poggadó">
 		<match value="poggadó"/>
-			<value value="poggadí"/>
+		<value value="poggadí"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#poknees">
 		<match value="poknees"/>
@@ -731,6 +731,8 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sapengro">
 		<match value="sapengro"/>
+		<match value="sap-engro"/>
+		<match value="sap engro"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sar-shan">
 		<match value="sar shan"/>
@@ -740,7 +742,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#saster">
 		<match value="saster"/>
-			<value value="sastra"/>
+		<value value="sastra"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sastramescro">
 		<match value="sastramescro"/>
@@ -822,7 +824,7 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tawnó">
 		<match value="tawnó"/>
-			<value value="tawní"/>
+		<value value="tawní"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tove">
 		<match value="tove"/>
@@ -887,5 +889,4 @@
 	<search-key-group href="text/glossary.xhtml#zingaro">
 		<match value="zingaro"/>
 	</search-key-group>
-
 </search-key-map>
