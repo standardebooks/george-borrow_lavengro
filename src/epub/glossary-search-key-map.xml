@@ -346,7 +346,7 @@
 	<search-key-group href="text/glossary.xhtml#hinjirí">
 		<match value="hinjiri"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#hir mi devlis">
+	<search-key-group href="text/glossary.xhtml#hir-mi-devlis">
 		<match value="hir mi devlis"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#hokkawar">
@@ -689,7 +689,7 @@
 	<search-key-group href="text/glossary.xhtml#romany-rye">
 		<match value="romany rye"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#rome and dree">
+	<search-key-group href="text/glossary.xhtml#rome-and-dree">
 		<match value="rome and dree"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#romí">
@@ -700,6 +700,9 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rommany">
 		<match value="rommany"/>
+	</search-key-group>
+	<search-key-group href="text/glossary.xhtml#rové">
+		<match value="rove"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rup">
 		<match value="rup"/>
