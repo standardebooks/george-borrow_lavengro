@@ -68,7 +68,6 @@
 		<match value="boró"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#borodromengro">
-		<match value="borodromengro"/>
 		<match value="boro-drom-engro"/>
 		<match value="boro-drom-engroes"/>
 	</search-key-group>
