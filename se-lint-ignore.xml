@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="content.opf">
+		<ignore>
+			<code>s-020</code>
+			<reason>Because this book is a compilation of two separate books, each with its own set of front matter, so it makes no sense to put a halftitlepage between Lavengro’s front matter and the body text of that book.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-7.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-1-8.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
+		</ignore>
+	</file>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Lint is flagging whole very long book titles which include punctuation, so these are “independent clauses”.</reason>
+		</ignore>
+	</file>
+	<file path="glossary.xhtml">
+		<ignore>
+			<code>t-057</code>
+			<reason>Lint is flagging instances where the glossary definition starts with the abbreviation “i.q.”. This should not be capitalized, but nor is it a continuation.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

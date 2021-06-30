@@ -36,37 +36,49 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008110535</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain encountering a variety of interesting characters.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;Lavengro, the Scholar, the Gypsy, the Priest&lt;/i&gt;, published in 1851, is a heavily fictionalized account of the early years of &lt;a href="https://standardebooks.org/ebooks/george-borrow"&gt;George Borrow&lt;/a&gt;. Borrow, born in 1803, was a writer and self-taught polyglot, fluent in many European languages, and a lover of literature.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Romany Rye&lt;/i&gt;, published six years later in 1857, is sometimes described as the “sequel” to &lt;i&gt;Lavengro&lt;/i&gt;, but in fact it is begins with a straight continuation of the action of the first book, which breaks off rather suddenly. The two books therefore are best considered as a whole and read together, and this Standard Ebooks edition combines the two into one volume.&lt;/p&gt;
+			&lt;p&gt;In the story, Borrow tells of his upbringing as the son of an army recruiting officer, moving with the regiment to different locations in Britain, including Scotland and Ireland. It is in Ireland that he first encounters a strange new language which he is keen to learn, leading to a life-long passion to acquire new tongues. A couple of years later in England, he comes across a camp of gypsies and meets the gypsy Jasper Petulengro, who becomes a life-long friend. Borrow is delighted to discover that the Romany have their own language, which of course he immediately sets out to learn.&lt;/p&gt;
+			&lt;p&gt;Borrow’s subsequent life, up to his mid-twenties, is that of a wanderer, traveling from place to place in Britain, encountering many interesting individuals and having a variety of entertaining adventures. He constantly comes in contact with the gypsies and with Petulengro and becomes familiar with their language and culture.&lt;/p&gt;
+			&lt;p&gt;The book also includes a considerable amount of criticism of the Catholic Church as embodied in its priests. Several chapters are devoted to Borrow’s discussions with “the man in black,” depicted as a cynical Catholic priest who has no real belief in the religious teachings of the Church but who is devoted to seeing it reinstated in England in order for its revenues to increase.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lavengro&lt;/i&gt; was not an immediate critical success on its release, but after Borrow died in 1881, it began to grow in popularity and critical acclaim. It is now considered a classic of English Literature. This Standard Ebooks edition of &lt;i&gt;Lavengro&lt;/i&gt; and &lt;i&gt;The Romany Rye&lt;/i&gt; is based on the editions published by John Murray and edited by W. I. Knapp, with many clarifying notes.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23287</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://www.gutenberg.org/ebooks/54048</dc:source>
+		<dc:source>https://www.google.com/books/edition/Lavengro_the_Scholar_the_Gypsy_the_Pries/MaUOAAAAYAAJ</dc:source>
+		<dc:source>https://www.google.com/books/edition/The_Romany_Rye/9eNcwZld6I4C</dc:source>
+		<meta property="se:production-notes">This edition combines the books “Lavengro” and “The Romany Rye” into one volume. The footnotes from each book, together with the Editor's notes at the back of each book have been consolidated into one set of endnotes. The Bibliography has been dropped but information on individual works where referenced in the notes have been added to the revlevant endnote.|There are many Romany words used in the text. The majority have been tagged as simply “rom” (Romani) but where the word has been given an English ending I have tagged them as “rme” (AngloRomani). Extended quotations such as poems and songs which freely mix English words like “the” and “and” with many Romany words have also been tagged as AngloRomani.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lavengro</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-borrow_lavengro</meta>
 		<dc:creator id="author">George Borrow</dc:creator>
 		<meta property="file-as" refines="#author">Borrow, George</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">George Henry Borrow</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/George_Borrow</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50048232</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="editor">William Ireland Knapp</dc:contributor>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/William_Ireland_Knapp</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/nr2001019985</meta>
+		<meta property="role" refines="#editor" scheme="marc:relators">edt</meta>
+		<meta property="se:role" refines="#editor" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Alfred Munnings</dc:contributor>
+		<meta property="file-as" refines="#artist">Munnings, Alfred</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Alfred_Munnings</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86800463</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://rightword.com.au/david.php</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -82,7 +94,7 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/afterword-1.xhtml" id="afterword-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/afterword.xhtml" id="afterword.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-1.xhtml" id="chapter-1-1.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-2.xhtml" id="chapter-1-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-1-3.xhtml" id="chapter-1-3.xhtml" media-type="application/xhtml+xml"/>
@@ -363,6 +375,7 @@
 		<itemref idref="chapter-1-98.xhtml"/>
 		<itemref idref="chapter-1-99.xhtml"/>
 		<itemref idref="chapter-1-100.xhtml"/>
+		<itemref idref="afterword.xhtml"/>
 		<itemref idref="part-2.xhtml"/>
 		<itemref idref="foreword-2.xhtml"/>
 		<itemref idref="chapter-2-1.xhtml"/>
@@ -424,7 +437,6 @@
 		<itemref idref="chapter-3-9.xhtml"/>
 		<itemref idref="chapter-3-10.xhtml"/>
 		<itemref idref="chapter-3-11.xhtml"/>
-		<itemref idref="afterword-1.xhtml"/>
 		<itemref idref="glossary.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
