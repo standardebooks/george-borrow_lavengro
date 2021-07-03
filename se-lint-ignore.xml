@@ -18,16 +18,4 @@
 			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
 		</ignore>
 	</file>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-017</code>
-			<reason>Lint is flagging whole very long book titles which include punctuation, so these are “independent clauses”.</reason>
-		</ignore>
-	</file>
-	<file path="glossary.xhtml">
-		<ignore>
-			<code>t-057</code>
-			<reason>Lint is flagging instances where the glossary definition starts with the abbreviation “i.q.”. This should not be capitalized, but nor is it a continuation.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
