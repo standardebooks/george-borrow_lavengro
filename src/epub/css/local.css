@@ -46,16 +46,11 @@ header{
 	margin-top: 1em;
 }
 
+/* letters */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
 
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
-
-/* letters */
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
@@ -64,4 +59,9 @@ footer{
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
 }
