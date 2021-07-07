@@ -65,8 +65,3 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
-
-/* this could be z3998:persona instead, but in the scans it's italic not all-caps */
-.speaker{
-	font-style: italic;
-}
