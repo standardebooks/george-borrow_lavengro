@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-borrow/lavengro</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-07-07T23:22:14Z</dc:date>
+		<meta property="dcterms:modified">2021-07-07T23:22:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -37,13 +37,13 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008110535</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain encountering a variety of interesting characters.</dc:description>
+		<dc:description id="description">A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain, encountering a variety of interesting characters.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Lavengro, the Scholar, the Gypsy, the Priest&lt;/i&gt;, published in 1851, is a heavily fictionalized account of the early years of &lt;a href="https://standardebooks.org/ebooks/george-borrow"&gt;George Borrow&lt;/a&gt;. Borrow, born in 1803, was a writer and self-taught polyglot, fluent in many European languages, and a lover of literature.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lavengro, the Scholar, the Gypsy, the Priest&lt;/i&gt;, published in 1851, is a heavily fictionalized account of &lt;a href="https://standardebooks.org/ebooks/george-borrow"&gt;George Borrow&lt;/a&gt;'s early years. Borrow, born in 1803, was a writer and self-taught polyglot, fluent in many European languages, and a lover of literature.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Romany Rye&lt;/i&gt;, published six years later in 1857, is sometimes described as the “sequel” to &lt;i&gt;Lavengro&lt;/i&gt;, but in fact it begins with a straight continuation of the action of the first book, which breaks off rather suddenly. The two books therefore are best considered as a whole and read together, and this Standard Ebooks edition combines the two into one volume.&lt;/p&gt;
-			&lt;p&gt;In the story, Borrow tells of his upbringing as the son of an army recruiting officer, moving with the regiment to different locations in Britain, including Scotland and Ireland. It is in Ireland that he first encounters a strange new language which he is keen to learn, leading to a life-long passion to acquire new tongues. A couple of years later in England, he comes across a camp of gypsies and meets the gypsy Jasper Petulengro, who becomes a life-long friend. Borrow is delighted to discover that the Romany have their own language, which of course he immediately sets out to learn.&lt;/p&gt;
-			&lt;p&gt;Borrow’s subsequent life, up to his mid-twenties, is that of a wanderer, traveling from place to place in Britain, encountering many interesting individuals and having a variety of entertaining adventures. He constantly comes in contact with the gypsies and with Petulengro and becomes familiar with their language and culture.&lt;/p&gt;
-			&lt;p&gt;The book also includes a considerable amount of criticism of the Catholic Church as embodied in its priests. Several chapters are devoted to Borrow’s discussions with “the man in black,” depicted as a cynical Catholic priest who has no real belief in the religious teachings of the Church but who is devoted to seeing it reinstated in England in order for its revenues to increase.&lt;/p&gt;
+			&lt;p&gt;In the novel Borrow tells of his upbringing as the son of an army recruiting officer, moving with the regiment to different locations in Britain, including Scotland and Ireland. It is in Ireland that he first encounters a strange new language which he is keen to learn, leading to a life-long passion for acquiring new tongues. A couple of years later in England, he comes across a camp of gypsies and meets the gypsy Jasper Petulengro, who becomes a life-long friend. Borrow is delighted to discover that the Romany have their own language, which of course he immediately sets out to learn.&lt;/p&gt;
+			&lt;p&gt;Borrow’s subsequent life, up to his mid-twenties, is that of a wanderer, traveling from place to place in Britain, encountering many interesting individuals and having a variety of entertaining adventures. He constantly comes in contact with the gypsies and with Petulengro, and becomes familiar with their language and culture.&lt;/p&gt;
+			&lt;p&gt;The book also includes a considerable amount of criticism of the Catholic Church and its priests. Several chapters are devoted to Borrow’s discussions with “the man in black,” depicted as a cynical Catholic priest who has no real belief in the religious teachings of the Church but who is devoted to seeing it reinstated in England in order for its revenues to increase.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Lavengro&lt;/i&gt; was not an immediate critical success on its release, but after Borrow died in 1881, it began to grow in popularity and critical acclaim. It is now considered a classic of English Literature. This Standard Ebooks edition of &lt;i&gt;Lavengro&lt;/i&gt; and &lt;i&gt;The Romany Rye&lt;/i&gt; is based on the editions published by John Murray and edited by W. I. Knapp, with many clarifying notes.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -52,8 +52,8 @@
 		<dc:source>https://www.google.com/books/edition/Lavengro_the_Scholar_the_Gypsy_the_Pries/MaUOAAAAYAAJ</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Romany_Rye/9eNcwZld6I4C</dc:source>
 		<meta property="se:production-notes">This edition combines the books “Lavengro” and “The Romany Rye” into one volume. The footnotes from each book, together with the Editor’s notes at the back of each book have been consolidated into one set of endnotes. The Bibliography has been dropped but information on individual works where referenced in the notes have been added to the revlevant endnote.|There are many Romany words used in the text. The majority have been tagged as simply “rom” (Romani) but where the word has been given an English ending I have tagged them as “rme” (AngloRomani). Extended quotations such as poems and songs which freely mix English words like “the” and “and” with many Romany words have also been tagged as AngloRomani.|Note that many gypsy words used by the author generally do not include accents and are not always accurately spelled (as the editor Knapp frequently points out). For this reason the glossary-search-key-map maps the correct spellings in the Glossary to the sometimes incorrect versions used by Borrow. Going back to supply correct spellings and accents in Borrow’s text would make a nonsense of the editor’s notes and would not be true to the original text.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">395117</meta>
+		<meta property="se:reading-ease.flesch">62.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lavengro</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-borrow_lavengro</meta>
 		<dc:creator id="author">George Borrow</dc:creator>
@@ -85,6 +85,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
