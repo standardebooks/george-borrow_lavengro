@@ -18,4 +18,10 @@
 			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
 		</ignore>
 	</file>
+	<file path="endnotes.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>Matched text is correctly titlecased.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
