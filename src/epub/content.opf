@@ -52,7 +52,7 @@
 		<dc:source>https://www.google.com/books/edition/Lavengro_the_Scholar_the_Gypsy_the_Pries/MaUOAAAAYAAJ</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Romany_Rye/9eNcwZld6I4C</dc:source>
 		<meta property="se:production-notes">This edition combines the books “Lavengro” and “The Romany Rye” into one volume. The footnotes from each book, together with the Editor’s notes at the back of each book have been consolidated into one set of endnotes. The Bibliography has been dropped but information on individual works where referenced in the notes have been added to the revlevant endnote.|There are many Romany words used in the text. The majority have been tagged as simply “rom” (Romani) but where the word has been given an English ending I have tagged them as “rme” (AngloRomani). Extended quotations such as poems and songs which freely mix English words like “the” and “and” with many Romany words have also been tagged as AngloRomani.|Note that many gypsy words used by the author generally do not include accents and are not always accurately spelled (as the editor Knapp frequently points out). For this reason the glossary-search-key-map maps the correct spellings in the Glossary to the sometimes incorrect versions used by Borrow. Going back to supply correct spellings and accents in Borrow’s text would make a nonsense of the editor’s notes and would not be true to the original text.</meta>
-		<meta property="se:word-count">395117</meta>
+		<meta property="se:word-count">395181</meta>
 		<meta property="se:reading-ease.flesch">62.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lavengro</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-borrow_lavengro</meta>
