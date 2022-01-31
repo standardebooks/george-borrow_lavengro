@@ -15,8 +15,8 @@ body [xml|lang] em{
 }
 
 header{
-	text-align: center;
 	font-variant: small-caps;
+	text-align: center;
 }
 
 /* poetry and verse */
