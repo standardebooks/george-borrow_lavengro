@@ -8,13 +8,13 @@
 	</file>
 	<file path="chapter-1-7.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-026</code>
 			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-1-8.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-026</code>
 			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
 		</ignore>
 	</file>
