@@ -65,11 +65,14 @@
 		<match value="bokht"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#boro">
-		<match value="boró"/>
+		<match value="boró">
+			<value value="boro"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#borodromengro">
-		<match value="boro-drom-engro"/>
-		<match value="boro-drom-engroes"/>
+		<match value="boro-drom-engro">
+			<value value="boro-drom-engroes"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#boshom">
 		<match value="boshom"/>
@@ -103,7 +106,9 @@
 		<match value="caulor"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chabe">
-		<match value="chabe"/>
+		<match value="chabe">
+			<value value="chabes"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chabo">
 		<match value="chabó"/>
@@ -139,7 +144,9 @@
 		<match value="chinomescro"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chipe">
-		<match value="chipe"/>
+		<match value="chipe">
+			<value value="chipes"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#chive">
 		<match value="chive"/>
@@ -178,7 +185,9 @@
 		<match value="coliko"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#coor">
-		<match value="coor"/>
+		<match value="coor">
+			<value value="cooring"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#cooromengro">
 		<match value="cooro-mengro"/>
@@ -251,7 +260,12 @@
 		<match value="duk"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dukker">
-		<match value="dukker"/>
+		<match value="dukker">
+			<value value="dukkerin"/>
+			<value value="dukkerin dook"/>
+			<value value="dukkeripen"/>
+			<value value="dukkeripens"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dukkerin">
 		<match value="dukkerin"/>
@@ -260,7 +274,9 @@
 		<match value="dukkerin dook"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dukkeripen">
-		<match value="dukkeripen"/>
+		<match value="dukkeripen">
+			<value value="dukkeripens"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dumo">
 		<match value="dumo"/>
@@ -417,7 +433,9 @@
 		<match value="kerdo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kil">
-		<match value="kil"/>
+		<match value="kil">
+			<value value="kils"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#kin">
 		<match value="kin"/>
@@ -470,10 +488,9 @@
 		<match value="lis"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lollo">
-		<match value="lollo"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#loovu">
-		<match value="loovu"/>
+		<match value="lollo">
+			<value value="lolloes"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lovo">
 		<match value="lovó"/>
@@ -704,9 +721,6 @@
 	<search-key-group href="text/glossary.xhtml#rove">
 		<match value="rove"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#rup">
-		<match value="rup"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#rye">
 		<match value="rye"/>
 	</search-key-group>
@@ -734,9 +748,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#saulo">
 		<match value="saulo"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#savo">
-		<match value="savo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#scoppelo">
 		<match value="scoppelo"/>
@@ -778,7 +789,9 @@
 		<match value="sos"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sove">
-		<match value="sove"/>
+		<match value="sove">
+			<value value="soves"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#swety">
 		<match value="swety"/>
@@ -812,7 +825,9 @@
 		<match value="tawni"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tove">
-		<match value="tove"/>
+		<match value="tove">
+			<value value="toves"/>
+		</match>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#trin">
 		<match value="trin"/>
