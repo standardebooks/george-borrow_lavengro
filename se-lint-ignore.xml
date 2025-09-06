@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="content.opf">
-		<ignore>
-			<code>s-020</code>
-			<reason>Because this book is a compilation of two separate books, each with its own set of front matter, so it makes no sense to put a halftitlepage between Lavengro’s front matter and the body text of that book.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-1-7.xhtml">
 		<ignore>
 			<code>y-026</code>
@@ -16,6 +10,12 @@
 		<ignore>
 			<code>y-026</code>
 			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
+		</ignore>
+	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>s-020</code>
+			<reason>Because this book is a compilation of two separate books, each with its own set of front matter, so it makes no sense to put a halftitlepage between Lavengro’s front matter and the body text of that book.</reason>
 		</ignore>
 	</file>
 	<file path="endnotes.xhtml">
