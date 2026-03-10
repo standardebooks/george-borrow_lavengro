@@ -2,11 +2,14 @@
 <se-lint-ignore>
 	<file path="chapter-1-7.xhtml">
 		<ignore code="y-026">
+			<line>26</line>
+			<line>27</line>
 			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-1-8.xhtml">
 		<ignore code="y-026">
+			<line>17</line>
 			<reason>False positive on “Nor”, which is Scots for “North”.</reason>
 		</ignore>
 	</file>
@@ -17,6 +20,8 @@
 	</file>
 	<file path="endnotes.xhtml">
 		<ignore code="t-064">
+			<line>323</line>
+			<line>324</line>
 			<reason>Matched text is correctly titlecased.</reason>
 		</ignore>
 	</file>
