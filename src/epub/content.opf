@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2008110535</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain, encountering a variety of interesting characters.</dc:abstract>
+		<meta property="schema:abstract">A young man with a passion for learning languages is befriended by a group of gypsies and travels Britain, encountering a variety of interesting characters.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Lavengro, the Scholar, the Gypsy, the Priest&lt;/i&gt;, published in 1851, is a heavily fictionalized account of &lt;a href="https://standardebooks.org/ebooks/george-borrow"&gt;George Borrow’s&lt;/a&gt; early years. Borrow, born in 1803, was a writer and self-taught polyglot, fluent in many European languages, and a lover of literature.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Romany Rye&lt;/i&gt;, published six years later in 1857, is sometimes described as the “sequel” to &lt;i&gt;Lavengro&lt;/i&gt;, but in fact it begins with a straight continuation of the action of the first book, which breaks off rather suddenly. The two books therefore are best considered as a whole and read together, and this Standard Ebooks edition combines the two into one volume.&lt;/p&gt;
