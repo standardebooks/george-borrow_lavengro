@@ -65,6 +65,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="editor">William Ireland Knapp</dc:contributor>
+		<meta property="file-as" refines="#editor">Knapp, William Ireland</meta>
 		<link href="https://en.wikipedia.org/wiki/William_Ireland_Knapp" refines="#editor" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr2001019985.html" refines="#editor" rel="schema:sameAs"/>
 		<meta property="role" refines="#editor" scheme="marc:relators">ann</meta>
